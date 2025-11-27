@@ -37,7 +37,7 @@ Soy **estudiante avanzado de Ingeniería en Sistemas Computacionales** con pasi�
 ## 🧰 Tecnologías y Herramientas
 | Lenguajes |Herramientas |
 |-----------|--------------|
-| Java, JavaScript, SQL | Git/GitHub, Gradle, Postman |
+| Java, SQL,..... | Git/GitHub, Postman, ... |
 
 ---
 
