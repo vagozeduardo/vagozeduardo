@@ -28,7 +28,7 @@ Soy **estudiante avanzado de Ingeniería en Sistemas Computacionales** con pasi�
 - 🎓 Actualmente curso la de Ingeniería en Sistemas Computacionales.
 - 💻 Me especializo en **Java**.
 - 🛠️ Experiencia en proyectos como:
-  - 📏 **Desarrollo Móvil**
+  - 📱 **Desarrollo Móvil**
   - 📝 **Programacion Web**
   - ⚙️ **Algunos Frameworks**
 
@@ -37,7 +37,7 @@ Soy **estudiante avanzado de Ingeniería en Sistemas Computacionales** con pasi�
 ## 🧰 Tecnologías y Herramientas
 | Lenguajes |Herramientas |
 |-----------|--------------|
-| Java, SQL,..... | Git/GitHub, Postman, ... |
+| Java, SQL, Python, javaScript, ... | Git/GitHub, Postman, Visual Studio Code, Adroid Studio, HTML, ... |
 
 ---
 
